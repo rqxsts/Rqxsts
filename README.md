@@ -7,7 +7,11 @@
 </p>
 
 <h2 align="center"> 👋 <em>Hello! I'm RastGame — just a tea lord</em> 🍵</h2>
-<img src="https://cdn.dribbble.com/userupload/20440063/file/original-f73b3606cf45fb3b422805b88b96b58a.gif" width="250" align="right" style="margin-left: 20px;" />
+<img
+  src="https://cdn.dribbble.com/userupload/20440063/file/original-f73b3606cf45fb3b422805b88b96b58a.gif"
+  width="30%"
+  align="right"
+/>
 <br/>
 <p>
   IT specialist, video editor, junior full-stack developer. I enjoy learning, trying new technologies and solving various problems.
