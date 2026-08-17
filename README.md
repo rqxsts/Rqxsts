@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA" target="_blank"><img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white" /></a>  ˖
   <a href="https://ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Ashreach-000000?style=for-the-badge&logo=alchemy&logoColor=white"/><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=devbox&logoColor=white"/></a>  ˖
-  <a href="https://rastgame.ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=devbox&logoColor=white"/></a>  ˖
+  <a href="https://rastgame.ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=astro&logoColor=white"/><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=devbox&logoColor=white"/></a>  ˖
   <a href="https://t.me/justtealord" target="_blank"><img src="https://img.shields.io/badge/TG channel (UA)-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
