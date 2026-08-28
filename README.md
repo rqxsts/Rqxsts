@@ -42,7 +42,7 @@
 <h2 align="center""> <em> Activity </em> </h2>
 <div style="display:flex; justify-content:center; align-items:center; gap:0;">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rastgame&radius=16&theme=high-contrast&area=true&order=5"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rqxsts&radius=16&theme=high-contrast&area=true&order=5"
     alt="activity-graph graph"
   />
 </div>
