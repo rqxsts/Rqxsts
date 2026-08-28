@@ -2,11 +2,11 @@
 <p align="center">
   <a href="https://youtube.com/channel/UCjjORUuuG7UqnkH7Fr440tA" target="_blank"><img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white" /></a>  ˖
   <a href="https://ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Ashreach-000000?style=for-the-badge&logo=alchemy&logoColor=white"/></a>  ˖
-  <a href="https://rastgame.ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=astro&logoColor=white"/></a>  ˖
+  <a href="https://rqxsts.ashreach.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=astro&logoColor=white"/></a>  ˖
   <a href="https://t.me/justtealord" target="_blank"><img src="https://img.shields.io/badge/TG channel (UA)-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<h2 align="center"> 👋 <em>Hello! I'm RastGame — just a tea lord</em> 🍵</h2>
+<h2 align="center"> 👋 <em>Hello! I'm Rqxsts — just a tea lord</em> 🍵</h2>
 <img
   src="https://cdn.dribbble.com/userupload/20440063/file/original-f73b3606cf45fb3b422805b88b96b58a.gif"
   width="30%"
